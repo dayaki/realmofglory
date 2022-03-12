@@ -1,0 +1,21 @@
+export const White = '#FFFFFF';
+export const Black = '#17161b';
+export const LightGrey = '#8b8b8d';
+export const PrimaryBrand = '#ff671e';
+
+export const Smoke100 = '#C0CCDA';
+export const Smoke100Light = '#C0CCDA20';
+export const Smoke200 = '#D3DCE6';
+export const Smoke300 = '#E0E6ED';
+export const Smoke400 = '#9DA8B6';
+export const Snow100 = '#E5E9F2';
+export const Snow200 = '#EFF2F7';
+export const Snow300 = '#F9FAFC';
+export const PantRed = '#F11111';
+export const Grey200 = '#444854';
+export const Grey300 = '#575A65';
+export const Platinum = '#E1E6EB';
+export const BlackCoral = '#575A65';
+export const PaBlack = '#323643';
+export const PaBlack100 = '#000927';
+export const PaBlack200 = '#032041';
